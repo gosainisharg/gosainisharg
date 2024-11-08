@@ -7,7 +7,7 @@
 ---
 "Curiosity is the wick in the candle of learning." — William Arthur Ward
 
-I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI.
+I'm passionate about **Machine Learning**, **Data Science**, **Large Language Models (LLMs)** and **Generative AI**.
 
 ### 👨‍💻 About Me
 
