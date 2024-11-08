@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Nisharg Gosai! 👋
 
-<!--
-**gosainisharg/gosainisharg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisharggosai/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gosainisharg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisharggosai@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I am passionate about **data science**, **machine learning**, and **analytics**. I’m eager to embark on my professional journey and ready to make my mark in the industry with my skills and enthusiasm. I'm currently focused on:
+
+- Building a RAG based financial investment LLM
+- Exploring the realm of Machine Learning Operations
+- Developing applications for efficient data workflows
+
+---
+
+### 🛠 Skills
+
+- **Programming Languages**: Python, R, SQL, C++, JavaScript, HTML/CSS
+- **MLOps Tools**: DVC, TFX, Docker, Airflow, MLflow, DAGs, Logging
+- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Seaborn
+- **Tools**: Streamlit, Flask, Git, Docker, PyCharm, VS Code, Tableau, MySQL, Power BI
+- **Cloud**: AWS, Azure, GCP(Vertex AI)
+
+---
+
+### 📈 Featured Projects
+
+1. **World-Econ-Growth-Forecast**
+   - Tech Stack: Python, Machine Learning, MLOps, GCP
+   - Developed a scalable LSTM model on GCP for GDP growth forecasting in IMF countries.
+   - Built automated data pipelines using Cloud Composer (Airflow) and implemented MLOps with drift detection and data validation via Pydantic.
+   - Enhanced monitoring with logging systems and email alerts for robust model performance.
+   - **[GitHub Repo]([https://github.com/gosainisharg/World-Econ-Growth-Forecast])**
+
+2. **Queryfi**
+   - Tech Stack: Python, NLP, Transfer Learning
+   - Built a text-to-SQL tool using BART and T5, improving semantic parsing.
+   - Fine-tuned neural translation models and optimized them on the WikiSQL benchmark.
+   - Proposed a novel approach, advancing text-to-SQL conversion techniques.
+   - **[GitHub Repo]([https://github.com/gosainisharg/Queryfi])**
+
+---
+
+### 🌐 Connect with Me
+
+I'm always excited to connect with other data enthusiasts! Feel free to reach out on LinkedIn or check out my projects on GitHub.
+
+---
+
