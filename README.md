@@ -52,4 +52,8 @@ I am currently working towards finishing my Data Science graduate studies at [No
 I'm always excited to connect with other data enthusiasts! Feel free to reach out on LinkedIn or check out my projects on GitHub.
 
 ---
+### 🤖 A Little Humor
+
+Why don’t neural networks go to the gym?
+They already have too many weights!
 
