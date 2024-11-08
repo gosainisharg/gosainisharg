@@ -6,11 +6,12 @@
 
 ---
 "Curiosity is the wick in the candle of learning." — William Arthur Ward
+
 I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI.
 
 ### 👨‍💻 About Me
 
-I am a Data Science graduate from Northeastern University and I am passionate about **Data Science**, **Machine Learning**, and **Analytics**. I'm currently focused on:
+I am currently working towards finishing my Data Science graduate studies at Northeastern University (Graduating May 2025) and I'm currently focused on:
 
 - Building a RAG based financial investment LLM
 - Exploring the realm of Machine Learning Operations
