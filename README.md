@@ -11,7 +11,7 @@ I'm passionate about **Machine Learning**, **Data Science**, **Large Language Mo
 
 ### 👨‍💻 About Me
 
-I am currently working towards finishing my Data Science graduate studies at Northeastern University (Graduating May 2025) and I'm currently focused on:
+I am currently working towards finishing my Data Science graduate studies at [Northeastern University](https://www.example.com](https://www.khoury.northeastern.edu/) (Graduating May 2025) and I'm currently focused on:
 
 - Building a RAG based financial investment LLM
 - Exploring the realm of Machine Learning Operations
