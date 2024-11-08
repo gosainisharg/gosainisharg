@@ -33,14 +33,14 @@ I am a data science graduate from Northeastern University and I am passionate ab
    - Developed a scalable LSTM model on GCP for GDP growth forecasting in IMF countries.
    - Built automated data pipelines using Cloud Composer (Airflow) and implemented MLOps with drift detection and data validation via Pydantic.
    - Enhanced monitoring with logging systems and email alerts for robust model performance.
-   - **[GitHub Repo]([https://github.com/gosainisharg/World-Econ-Growth-Forecast])**
+   - **[GitHub Repo](https://github.com/gosainisharg/World-Econ-Growth-Forecast)**
 
 2. **Queryfi**
    - Tech Stack: Python, NLP, Transfer Learning
    - Built a text-to-SQL tool using BART and T5, improving semantic parsing.
    - Fine-tuned neural translation models and optimized them on the WikiSQL benchmark.
    - Proposed a novel approach, advancing text-to-SQL conversion techniques.
-   - **[GitHub Repo]([https://github.com/gosainisharg/Queryfi])**
+   - **[GitHub Repo](https://github.com/gosainisharg/Queryfi)**
 
 ---
 
