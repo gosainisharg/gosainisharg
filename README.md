@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am a data science graduate from Northeastern University and I am passionate about **data science**, **machine learning**, and **analytics**. I'm currently focused on:
+I am a Data Science graduate from Northeastern University and I am passionate about **Data Science**, **Machine Learning**, and **Analytics**. I'm currently focused on:
 
 - Building a RAG based financial investment LLM
 - Exploring the realm of Machine Learning Operations
