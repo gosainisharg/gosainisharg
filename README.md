@@ -7,7 +7,7 @@
 ---
 "Curiosity is the wick in the candle of learning." — William Arthur Ward
 
-Data Science Intern at **Crewasis  **
+Data Science Intern at **Crewasis**
 
 Looking for Summer 2025 Internships!
 
