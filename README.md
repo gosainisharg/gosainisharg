@@ -5,9 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisharggosai@gmail.com)
 
 ---
-"Curiosity is the wick in the candle of learning." — William Arthur Ward
-
-Incoming Data Science Intern at **Crewasis** Spring 2025
 
 Looking for Summer 2025 Internships!
 
@@ -16,8 +13,8 @@ I'm passionate about **Machine Learning**, **Data Science**, **Large Language Mo
 ### 👨‍💻 About Me
 
 I am currently working towards finishing my Data Science graduate studies at [Northeastern University](https://www.khoury.northeastern.edu/) (Graduating Dec 2025) and I'm currently focused on:
-
-- Building a RAG based financial investment LLM
+- Incoming Data Science Intern at **Crewasis** Spring 2025
+- Building a RAG based financial investment LLM 
 - Exploring the realm of Machine Learning Operations
 - Developing applications for efficient data workflows
 
