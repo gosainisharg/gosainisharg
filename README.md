@@ -32,14 +32,30 @@ I am currently working towards finishing my Data Science graduate studies at [No
 
 ### 📈 Featured Projects
 
-1. **World-Econ-Growth-Forecast**
+1. **FinRAG**
+   - Tech Stack: Python, NLP, LLM, RAG
+   - Developed an advanced RAG-based intelligent assistant for financial reports, such as 10-K filings, enabling
+   efficient context-aware responses to user queries.
+   - Implemented robust document processing by parsing and embedding chunked data with chunk IDs and
+   populating a Chroma vector database using a financial embedding model.
+   - Integrated advanced retrieval techniques, including re-ranking, hybrid search, query expansion, and
+   multi-query retrieval, to provide precise answers, enhancing performance and saving time.
+   - Used fine-tuned LLaMA 3.2 and Mistral models, served locally on Ollama, for generating accurate responses.
+   - Built an interactive Streamlit-based interface that supports querying stored reports or uploading new
+   documents
+   - Achieved 85% accuracy in query-response evaluations and improved retrieval efficiency by 30%, reducing
+   query processing time by leveraging optimized embeddings and retrieval pipelines
+   - Enabled the system to handle up to multiple document formats with a retrieval latency of less than 10
+   seconds for most queries
+
+3. **World-Econ-Growth-Forecast**
    - Tech Stack: Python, Machine Learning, MLOps, GCP
    - Developed a scalable LSTM model on GCP for GDP growth forecasting in IMF countries.
    - Built automated data pipelines using Cloud Composer (Airflow) and implemented MLOps with drift detection and data validation via Pydantic.
    - Enhanced monitoring with logging systems and email alerts for robust model performance.
    - **[GitHub Repo](https://github.com/gosainisharg/World-Econ-Growth-Forecast)**
 
-2. **Queryfi**
+4. **Queryfi**
    - Tech Stack: Python, NLP, Transfer Learning
    - Built a text-to-SQL tool using BART and T5, improving semantic parsing.
    - Fine-tuned neural translation models and optimized them on the WikiSQL benchmark.
