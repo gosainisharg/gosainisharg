@@ -33,20 +33,15 @@ I am currently working towards finishing my Data Science graduate studies at [No
 ### 📈 Featured Projects
 
 1. **FinRAG**
-   - Tech Stack: Python, NLP, LLM, RAG
-   - Developed an advanced RAG-based intelligent assistant for financial reports, such as 10-K filings, enabling
-   efficient context-aware responses to user queries.
-   - Implemented robust document processing by parsing and embedding chunked data with chunk IDs and
-   populating a Chroma vector database using a financial embedding model.
-   - Integrated advanced retrieval techniques, including re-ranking, hybrid search, query expansion, and
-   multi-query retrieval, to provide precise answers, enhancing performance and saving time.
+   - Tech Stack: Python, NLP, LLM, RAG, Streamlit
+   - Developed an advanced RAG-based intelligent assistant for financial reports, such as 10-K filings, enabling efficient context-aware responses to user queries.
+   - Implemented robust document processing by parsing and embedding chunked data with chunk IDs and populating a Chroma vector database using a financial embedding model.
+   - Integrated advanced retrieval techniques, including re-ranking, hybrid search, query expansion, and multi-query retrieval, to provide precise answers, enhancing performance and saving time.
    - Used fine-tuned LLaMA 3.2 and Mistral models, served locally on Ollama, for generating accurate responses.
-   - Built an interactive Streamlit-based interface that supports querying stored reports or uploading new
-   documents
-   - Achieved 85% accuracy in query-response evaluations and improved retrieval efficiency by 30%, reducing
-   query processing time by leveraging optimized embeddings and retrieval pipelines
-   - Enabled the system to handle up to multiple document formats with a retrieval latency of less than 10
-   seconds for most queries
+   - Built an interactive Streamlit-based interface that supports querying stored reports or uploading new documents
+   - Achieved 85% accuracy in query-response evaluations and improved retrieval efficiency by 30%, reducing query processing time by leveraging optimized embeddings and retrieval pipelines
+   - Enabled the system to handle up to multiple document formats with a retrieval latency of less than 10 seconds for most queries
+   - **[GitHub Repo](https://github.com/gosainisharg/FinRAG)**
 
 3. **World-Econ-Growth-Forecast**
    - Tech Stack: Python, Machine Learning, MLOps, GCP
@@ -55,7 +50,20 @@ I am currently working towards finishing my Data Science graduate studies at [No
    - Enhanced monitoring with logging systems and email alerts for robust model performance.
    - **[GitHub Repo](https://github.com/gosainisharg/World-Econ-Growth-Forecast)**
 
-4. **Queryfi**
+4. **ReSearchMate**
+   - Tech Stack: Python, Unsupervised ML, Streamlit    
+   - Developed ReSearchMate, an intelligent recommender system for research papers using advanced clustering, topic modeling, and recommendation algorithms
+   - Implemented K-Means and Agglomerative clustering techniques to organize over 1 million research papers into meaningful thematic groups
+   - Utilized Latent Dirichlet Allocation (LDA) for enhanced topic modeling, improving upon Latent Semantic Analysis (LSA) to capture diverse and nuanced research topics
+   - Built a personalized recommendation system leveraging topic distributions and clustering results for tailored paper suggestions
+   - Processed and analyzed a dataset containing 865,000 unique authors and 81,000+ abstracts spanning from 1937 to 2017
+   - Applied advanced data preprocessing techniques including TF-IDF vectorization, SVD dimensionality reduction, and text cleaning methods
+   - Visualized clustering results and topic models using t-SNE, word clouds, and bar charts for improved interpretability
+   - Evaluated clustering performance using metrics such as Silhouette Score, Davies-Bouldin Index, and Within-Cluster Sum of Squares (WCSS)
+   - Designed a user-friendly interface for researchers to discover relevant and impactful papers based on their specific interests
+   - **[GitHub Repo](https://github.com/gosainisharg/ReSearchMate)**
+
+5. **Queryfi**
    - Tech Stack: Python, NLP, Transfer Learning
    - Built a text-to-SQL tool using BART and T5, improving semantic parsing.
    - Fine-tuned neural translation models and optimized them on the WikiSQL benchmark.
