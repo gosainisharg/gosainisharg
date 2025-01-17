@@ -22,7 +22,7 @@ I am currently working towards finishing my Data Science graduate studies at [No
 
 ### 🛠 Skills
 
-- **Programming Languages**: Python, R, SQL, C++, JavaScript, HTML/CSS
+- **Programming Languages**: Python, R, SQL, C++
 - **MLOps Tools**: DVC, TFX, Docker, Airflow, MLflow, DAGs, Logging
 - **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Seaborn
 - **Tools**: Streamlit, Flask, Git, Docker, PyCharm, VS Code, Tableau, MySQL, Power BI
