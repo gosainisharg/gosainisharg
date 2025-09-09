@@ -6,7 +6,7 @@
 
 ---
 
-Looking for Full time roles starting January!
+Looking for Full time roles starting January 2026!
 
 I'm passionate about **Machine Learning**, **Data Science**, **Large Language Models (LLMs)** and **Generative AI**.
 
