@@ -6,14 +6,14 @@
 
 ---
 
-Looking for Summer 2025 Internships!
+Looking for Full time roles starting January!
 
 I'm passionate about **Machine Learning**, **Data Science**, **Large Language Models (LLMs)** and **Generative AI**.
 
 ### 👨‍💻 About Me
 
 I am currently working towards finishing my Data Science graduate studies at [Northeastern University](https://www.khoury.northeastern.edu/) (Graduating Dec 2025) and I'm :
-- Data Science Intern at **Crewasis** Spring 2025
+- Data Science Co-op at **Crewasis** 
 - Building a RAG based financial investment LLM 
 - Exploring the realm of Machine Learning Operations
 - Developing applications for efficient data workflows
