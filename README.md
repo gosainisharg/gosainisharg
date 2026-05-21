@@ -6,17 +6,9 @@
 
 ---
 
-Looking for Full time roles starting January 2026!
+Data Scientist @Squark
 
 I'm passionate about **Machine Learning**, **Data Science**, **Large Language Models (LLMs)** and **Generative AI**.
-
-### 👨‍💻 About Me
-
-I am currently working towards finishing my Data Science graduate studies at [Northeastern University](https://www.khoury.northeastern.edu/) (Graduating Dec 2025) and I'm :
-- Data Science Co-op at **Crewasis** 
-- Building a RAG based financial investment LLM 
-- Exploring the realm of Machine Learning Operations
-- Developing applications for efficient data workflows
 
 ---
 
